@@ -69,12 +69,12 @@ Temperature data sourced from NOAA Climate Data Online, National Weather Service
 ## Regional Analysis
 
 ### Temperature Comparison Map
-![Northeast US Average July High Temperatures](https://eldoradoweather.com/climate/US%20Climate%20Maps/images/Lower%2048%20States/Temperature/Record%20Extreme%20Maximum%20Temperature/Annual%20Record%20Extreme%20Maximum%20Temperature.png)
+![Northeast US Average July High Temperatures](https://eldoradoweather.com/climate/US%20Climate%20Maps/images/Lower%2048%20States/Temperature/Record%20Extreme%20Maximum%20Temperature/Annual%20Record%20Extreme%20Maximum%20Temperature.png){: width="600px"}
 *NOAA Climate Data showing average highest temperatures across the USA.*
 
 ### 1. Northern Maine
 
-![Northern Maine Landscape](https://img.freepik.com/premium-photo/scenic-view-rolling-hills-farmland-with-autumn-foliage-aroostook-county-maine_817921-71251.jpg)
+![Northern Maine Landscape](https://img.freepik.com/premium-photo/scenic-view-rolling-hills-farmland-with-autumn-foliage-aroostook-county-maine_817921-71251.jpg){: width="600px"}
 *Aroostook County landscape - vast open spaces typical of northern Maine's agricultural and forested regions*
 
 **Temperature Assessment: EXCELLENT (9/10)**
@@ -98,7 +98,7 @@ Northern Maine demonstrates exceptional summer temperature moderation, with July
 
 ### 2. The Adirondacks (New York)
 
-![Adirondack Mountains and Lake](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwZ-oMb15XdRvdqvlzA99NiDN_nE6UQY9ivA&s)
+![Adirondack Mountains and Lake](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwZ-oMb15XdRvdqvlzA99NiDN_nE6UQY9ivA&s){: width="600px"}
 *Classic Adirondack landscape with mountains and pristine lakes - representative of the region's natural cooling and water resources*
 
 **Temperature Assessment: EXCELLENT (9/10)**
@@ -127,7 +127,7 @@ The Adirondacks demonstrate remarkable temperature consistency, with Saranac Lak
 
 ### 3. Northern New Hampshire (White Mountains)
 
-![White Mountains New Hampshire](https://media.istockphoto.com/id/1292159183/photo/mount-washington.jpg?s=612x612&w=0&k=20&c=2rnPr6_9lzjUZkrQbMtAJUB2YQO-8a5cxrGzmubBoQQ=)
+![White Mountains New Hampshire](https://media.istockphoto.com/id/1292159183/photo/mount-washington.jpg?s=612x612&w=0&k=20&c=2rnPr6_9lzjUZkrQbMtAJUB2YQO-8a5cxrGzmubBoQQ=){: width="600px"}
 *White Mountains of New Hampshire - elevated terrain providing natural cooling and diverse microclimates*
 
 **Temperature Assessment: GOOD (8/10)**
@@ -156,7 +156,7 @@ North Conway and Berlin areas demonstrate solid temperature performance with Jul
 
 ### 4. Southern Vermont
 
-![Vermont Covered Bridge](https://www.shutterstock.com/image-photo/beautiful-red-covered-bridge-fall-600nw-1567167814.jpg)
+![Vermont Covered Bridge](https://www.shutterstock.com/image-photo/beautiful-red-covered-bridge-fall-600nw-1567167814.jpg){: width="600px"}
 *Iconic Vermont covered bridge - representative of the region's traditional New England character and agricultural heritage*
 
 **Temperature Assessment: GOOD (7/10)**
