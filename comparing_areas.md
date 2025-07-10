@@ -4,6 +4,110 @@
 
 ---
 
+## Table of Contents
+
+1. [Executive Summary](#executive-summary)
+   - [Key Findings](#key-findings)
+
+2. [Goals and Objectives](#goals-and-objectives)
+   - [Primary Mission](#primary-mission)
+   - [Core Requirements](#core-requirements)
+   - [Operational Objectives](#operational-objectives)
+   - [Risk Mitigation Priorities](#risk-mitigation-priorities)
+
+3. [Comparison Criteria and Methodology](#comparison-criteria-and-methodology)
+   - [Weighted Scoring Framework](#weighted-scoring-framework)
+   - [Data Sources and Methodology](#data-sources-and-methodology)
+
+4. [Regional Analysis](#regional-analysis)
+   - [Temperature Comparison Map](#temperature-comparison-map)
+   - [1. Northern Maine](#1-northern-maine)
+   - [2. The Adirondacks (New York)](#2-the-adirondacks-new-york)
+   - [3. Northern New Hampshire (White Mountains)](#3-northern-new-hampshire-white-mountains)
+   - [4. Southern Vermont](#4-southern-vermont)
+   - [5. Northern Vermont](#5-northern-vermont)
+   - [6. The Berkshires (Massachusetts)](#6-the-berkshires-massachusetts)
+   - [7. The Catskills (New York)](#7-the-catskills-new-york)
+
+5. [Land Availability and Pricing Analysis](#land-availability-and-pricing-analysis)
+   - [Overview: Market Accessibility and Investment Requirements](#overview-market-accessibility-and-investment-requirements)
+   - [Regional Land Pricing Comparison](#regional-land-pricing-comparison)
+   - [Regional Land Pricing Analysis](#regional-land-pricing-analysis)
+   - [Investment Strategy Recommendations](#investment-strategy-recommendations)
+   - [Market Timing Considerations](#market-timing-considerations)
+
+6. [Agricultural Viability Analysis](#agricultural-viability-analysis)
+   - [Overview](#overview)
+   - [Regional Agricultural Assessment](#regional-agricultural-assessment)
+   - [Self-Sufficiency Analysis: Caloric Requirements and Land Needs](#self-sufficiency-analysis-caloric-requirements-and-land-needs)
+   - [Climate Resilience and Future Viability](#climate-resilience-and-future-viability)
+   - [Strategic Recommendations for Agricultural Success](#strategic-recommendations-for-agricultural-success)
+   - [Conclusion: Agricultural Viability Assessment](#conclusion-agricultural-viability-assessment)
+
+7. [Accessibility Analysis (15% Weight)](#4-accessibility-analysis-15-weight)
+   - [Overview](#overview-1)
+   - [Detailed Analysis](#detailed-analysis)
+   - [Accessibility Ranking](#accessibility-ranking)
+   - [Key Findings](#key-findings-1)
+
+8. [Economic Viability Analysis: Airbnb Income Potential (12% Weight)](#5-economic-viability-analysis-airbnb-income-potential-12-weight)
+   - [Overview](#overview-2)
+   - [Market Performance Analysis](#market-performance-analysis)
+   - [Seasonal Revenue Patterns and Optimization Strategies](#seasonal-revenue-patterns-and-optimization-strategies)
+   - [Market Maturity and Growth Trajectory Analysis](#market-maturity-and-growth-trajectory-analysis)
+   - [Regulatory Environment Impact on Revenue Sustainability](#regulatory-environment-impact-on-revenue-sustainability)
+   - [Investment Return Projections and Risk Assessment](#investment-return-projections-and-risk-assessment)
+   - [Strategic Recommendations for Revenue Optimization](#strategic-recommendations-for-revenue-optimization)
+   - [Economic Viability Rankings](#economic-viability-rankings)
+   - [Conclusion: Economic Sustainability Through Tourism Revenue](#conclusion-economic-sustainability-through-tourism-revenue)
+
+9. [Safety and Crime Analysis (5% Weight)](#6-safety-and-crime-analysis-5-weight)
+   - [Overview](#overview-3)
+   - [Comprehensive Regional Safety Assessment](#comprehensive-regional-safety-assessment)
+   - [Family Safety Considerations](#family-safety-considerations)
+   - [Specialized Safety Considerations](#specialized-safety-considerations)
+   - [Safety Rankings and Recommendations](#safety-rankings-and-recommendations)
+   - [Conclusion: Safety as a Foundation for Community Development](#conclusion-safety-as-a-foundation-for-community-development)
+
+10. [Off-Grid Infrastructure Analysis](#7-off-grid-infrastructure-analysis)
+    - [Overview](#overview-4)
+    - [Regional Infrastructure Assessment](#regional-infrastructure-assessment)
+    - [Off-Grid System Integration and Costs](#off-grid-system-integration-and-costs)
+    - [Regional Advantages and Challenges](#regional-advantages-and-challenges)
+    - [Technology-Specific Considerations](#technology-specific-considerations)
+    - [Internet and Communication Systems](#internet-and-communication-systems)
+    - [Off-Grid Infrastructure Rankings](#off-grid-infrastructure-rankings)
+    - [Strategic Recommendations for Off-Grid Development](#strategic-recommendations-for-off-grid-development)
+    - [Conclusion: Off-Grid Infrastructure Viability](#conclusion-off-grid-infrastructure-viability)
+
+11. [Political and Cultural Analysis](#8-political-and-cultural-analysis)
+    - [Overview](#overview-5)
+    - [Political Landscape Analysis](#political-landscape-analysis)
+    - [Gun Ownership and Firearms Culture](#gun-ownership-and-firearms-culture)
+    - [Community Character Assessment](#community-character-assessment)
+    - [Cultural Compatibility Analysis](#cultural-compatibility-analysis)
+    - [Special Considerations for Multi-Generational Community](#special-considerations-for-multi-generational-community)
+    - [Economic and Social Integration](#economic-and-social-integration)
+    - [Political and Cultural Rankings](#political-and-cultural-rankings)
+    - [Conclusion: Cultural Integration and Community Development](#conclusion-cultural-integration-and-community-development)
+
+12. [Comparative Analysis and Recommendations](#9-comparative-analysis-and-recommendations)
+    - [Overview](#overview-6)
+    - [Regional Performance Matrix](#regional-performance-matrix)
+    - [Trade-Off Analysis](#trade-off-analysis)
+    - [Risk Assessment Matrix](#risk-assessment-matrix)
+    - [Strategic Recommendations](#strategic-recommendations)
+    - [Implementation Timeline and Strategy](#implementation-timeline-and-strategy)
+    - [Financial Strategy and Market Timing](#financial-strategy-and-market-timing)
+    - [Risk Mitigation Strategies](#risk-mitigation-strategies)
+    - [Final Recommendations](#final-recommendations)
+    - [Conclusion](#conclusion)
+
+13. [Visual Scorecard and Appendices](#10-visual-scorecard-and-appendices)
+    - [Overall Regional Scorecard](#overall-regional-scorecard)
+
+---
+
 ## Executive Summary
 
 This comprehensive analysis evaluates seven northeastern US regions for land acquisition by an eight-adult, eight-child group seeking climate-resilient property suitable for part-time use transitioning to potential full-time community development. The evaluation prioritizes peak summer temperature mitigation above all other factors, reflecting the group's primary climate change adaptation concerns.
