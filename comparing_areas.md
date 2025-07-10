@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-This comprehensive analysis evaluates seven northeastern US regions for land acquisition by an eight-adult, seven-child group seeking climate-resilient property suitable for part-time use transitioning to potential full-time community development. The evaluation prioritizes peak summer temperature mitigation above all other factors, reflecting the group's primary climate change adaptation concerns.
+This comprehensive analysis evaluates seven northeastern US regions for land acquisition by an eight-adult, eight-child group seeking climate-resilient property suitable for part-time use transitioning to potential full-time community development. The evaluation prioritizes peak summer temperature mitigation above all other factors, reflecting the group's primary climate change adaptation concerns.
 
 ### Key Findings
 

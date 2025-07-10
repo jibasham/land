@@ -11,7 +11,7 @@
 **How many people are in your core group, and what's the age range?**
 
 *Answer:*
-2 or 3 married couples, 2 single adults all between 35-41 years old. And 7 children of all ages.
+2 or 3 married couples, 2 single adults all between 35-41 years old. And 8 children of all ages.
 
 
 
