@@ -937,214 +937,64 @@ Safety represents a critical consideration for the group's long-term community d
 
 All of the target mountain regions demonstrate **significantly superior safety profiles** compared to national averages, with most areas showing crime rates 50-80% below typical US statistics. However, meaningful variations exist between regions that warrant careful consideration.
 
-#### **Vermont: Exceptional Safety Leadership**
+#### **Regional Safety Comparison**
 
-**Overall Safety Profile: EXCELLENT (9/10)**
-
-Vermont consistently ranks among the safest states in the nation, with both Northern and Southern Vermont demonstrating exceptional safety records:
-
-**Northern Vermont:**
-- **Violent Crime Rate:** 1.9 per 1,000 residents (vs. 4.0 national average)
-- **Property Crime Rate:** 9.1 per 1,000 residents (vs. 20.0 national average)
-- **Rural Crime Characteristics:** Primarily property crimes (theft, vandalism) with minimal violent crime
-- **Emergency Response:** Well-established rural emergency services with reasonable response times
-
-**Southern Vermont:**
-- **Violent Crime Rate:** 1.8 per 1,000 residents
-- **Property Crime Rate:** 8.9 per 1,000 residents
-- **Community Safety:** Strong community policing and neighborhood watch programs
-- **Tourist Safety:** Excellent safety record for visitors and seasonal residents
-
-**Safety Advantages:**
-- **Lowest violent crime rates** in the analysis
-- **Strong community cohesion** enhancing informal security
-- **Effective rural law enforcement** with community integration
-- **Minimal drug-related crime** compared to other regions
-
-#### **New Hampshire: Outstanding Rural Security**
-
-**Overall Safety Profile: EXCELLENT (9/10)**
-
-New Hampshire demonstrates exceptional safety performance, particularly in rural mountain areas:
-
-**Northern New Hampshire (White Mountains):**
-- **Violent Crime Rate:** 1.26 per 1,000 residents (extremely low)
-- **Property Crime Rate:** 10.11 per 1,000 residents
-- **Rural Safety:** Among the lowest crime rates in the country
-- **Emergency Services:** Good coverage despite challenging terrain
-
-**Safety Characteristics:**
-- **Exceptionally low violent crime** rates
-- **Property crime** consists primarily of minor theft and vandalism
-- **Strong community safety culture** with active neighborhood awareness
-- **Effective emergency response** systems despite rural challenges
-
-**Specific Advantages:**
-- **Lowest overall crime rates** among all regions analyzed
-- **Minimal gun violence** despite high legal gun ownership
-- **Strong rural community policing** effectiveness
-- **Low drug-related crime** compared to national averages
-
-#### **Maine: Excellent Rural Safety with Geographic Variation**
-
-**Overall Safety Profile: EXCELLENT (8/10)**
-
-Maine shows excellent safety performance, with some variation between coastal and inland areas:
-
-**Northern Maine:**
-- **Violent Crime Rate:** 1.1 per 1,000 residents (exceptionally low)
-- **Property Crime Rate:** 12.3 per 1,000 residents
-- **Rural Crime Profile:** Minimal violent crime, occasional property crimes
-- **Emergency Response:** Good coverage despite vast geographic area
-
-**Safety Considerations:**
-- **Extremely low violent crime** rates in rural areas
-- **Property crime** typically involves seasonal property theft
-- **Strong community safety networks** in small towns
-- **Effective regional law enforcement** coordination
-
-**Unique Factors:**
-- **Seasonal crime patterns** related to tourism and hunting seasons
-- **Excellent community cooperation** with law enforcement
-- **Low drug-related crime** in rural areas
-- **Strong traditions of self-reliance** and mutual aid
-
-#### **Adirondacks: Good Safety with Enforcement Challenges**
-
-**Overall Safety Profile: GOOD (7/10)**
-
-The Adirondacks demonstrate good safety performance with some considerations related to the vast geographic area:
-
-**Safety Statistics:**
-- **Violent Crime Rate:** 2.3 per 1,000 residents (low)
-- **Property Crime Rate:** 14.2 per 1,000 residents
-- **Rural Crime:** Primarily property crimes, minimal violent crime
-- **Geographic Challenges:** Large area creates response time considerations
-
-**Safety Characteristics:**
-- **Low violent crime** rates throughout the region
-- **Property crime** includes seasonal theft and vandalism
-- **Strong community awareness** in small towns
-- **Challenging emergency response** due to geographic scale
-
-**Considerations:**
-- **Response time variability** due to vast park area
-- **Seasonal crime fluctuations** related to tourism
-- **Good community policing** where coverage exists
-- **Limited law enforcement density** in remote areas
-
-#### **Berkshires: Good Safety with Population Density Factors**
-
-**Overall Safety Profile: GOOD (7/10)**
-
-The Berkshires show good safety performance with considerations related to higher population density and tourism:
-
-**Safety Statistics:**
-- **Violent Crime Rate:** 2.1 per 1,000 residents
-- **Property Crime Rate:** 15.8 per 1,000 residents
-- **Tourist-Related Crime:** Some seasonal increases in property crimes
-- **Emergency Response:** Good coverage in populated areas
-
-**Safety Profile:**
-- **Moderate violent crime** rates, still well below national averages
-- **Property crime** includes tourist-related theft and vandalism
-- **Strong community policing** in established towns
-- **Good emergency services** coverage
-
-**Considerations:**
-- **Tourism-related crime** increases during peak seasons
-- **Higher population density** creates different crime patterns
-- **Good law enforcement** presence in main towns
-- **Seasonal security challenges** in remote areas
-
-#### **Catskills: Moderate Safety with NYC Proximity Effects**
-
-**Overall Safety Profile: MODERATE (6/10)**
-
-The Catskills show moderate safety performance with some considerations related to proximity to major metropolitan areas:
-
-**Safety Statistics:**
-- **Violent Crime Rate:** 2.8 per 1,000 residents
-- **Property Crime Rate:** 18.1 per 1,000 residents
-- **Drug-Related Crime:** Some increase due to metropolitan proximity
-- **Emergency Response:** Generally good in populated areas
-
-**Safety Characteristics:**
-- **Moderate violent crime** rates, still below national averages
-- **Property crime** includes some drug-related incidents
-- **Variable community safety** depending on specific location
-- **Good emergency services** in main areas
-
-**Considerations:**
-- **Metropolitan proximity effects** on crime patterns
-- **Drug-related incidents** more common than other regions
-- **Tourism-related crime** during peak seasons
-- **Variable law enforcement** effectiveness by location
+| **Safety Category** | **Vermont** | **New Hampshire** | **Maine** | **Adirondacks** | **Berkshires** | **Catskills** |
+|---------------------|-------------|-------------------|-----------|-----------------|----------------|---------------|
+| **Overall Safety Score** | **9/10 - Excellent** | **9/10 - Excellent** | **8/10 - Excellent** | **7/10 - Good** | **7/10 - Good** | **6/10 - Moderate** |
+| | | | | | | |
+| **CRIME STATISTICS** | | | | | | |
+| Violent Crime Rate | 1.8-1.9 per 1,000 | 1.26 per 1,000 | 1.1 per 1,000 | 2.3 per 1,000 | 2.1 per 1,000 | 2.8 per 1,000 |
+| Property Crime Rate | 8.9-9.1 per 1,000 | 10.11 per 1,000 | 12.3 per 1,000 | 14.2 per 1,000 | 15.8 per 1,000 | 18.1 per 1,000 |
+| vs. National Average | **-55% overall** | **-68% overall** | **-45% overall** | **-30% overall** | **-25% overall** | **-15% overall** |
+| | | | | | | |
+| **SAFETY CHARACTERISTICS** | | | | | | |
+| Violent Crime Profile | Minimal, mostly domestic | Extremely low rates | Exceptionally low rural | Low but seasonal variation | Moderate, tourism-related | Moderate, metro proximity |
+| Property Crime Profile | Minor theft, vandalism | Minor theft, vandalism | Seasonal property theft | Seasonal theft, vandalism | Tourist-related theft | Some drug-related incidents |
+| Drug-Related Crime | Minimal compared to others | Very low rates | Low in rural areas | Minimal in remote areas | Low to moderate | Higher due to metro proximity |
+| | | | | | | |
+| **COMMUNITY SAFETY** | | | | | | |
+| Community Policing | Strong integration | Excellent rural coverage | Effective coordination | Good where coverage exists | Strong in established towns | Variable by location |
+| Neighborhood Watch | Active programs | Strong community culture | Excellent cooperation | Good in small towns | Good in populated areas | Variable effectiveness |
+| Emergency Response | Well-established services | Good despite terrain | Good despite geography | Limited by vast area | Good in populated areas | Good in accessible areas |
+| | | | | | | |
+| **SEASONAL FACTORS** | | | | | | |
+| Tourism Crime Impact | Minimal increase | Slight seasonal variation | Moderate seasonal patterns | Moderate tourism-related | Seasonal increases | Moderate seasonal patterns |
+| Holiday/Vacation Crime | Minimal property crime | Low property crime | Some seasonal theft | Some property theft | Moderate property crime | Moderate property crime |
+| Winter Crime Patterns | Generally lower rates | Very low winter rates | Lower winter rates | Lower winter rates | Lower winter rates | Lower winter rates |
 
 ### Family Safety Considerations
 
-#### **Child Safety Priorities**
+#### **Child and Family Safety Comparison**
 
-All regions demonstrate excellent environments for raising children, with specific advantages varying by location:
-
-**Outstanding Child Safety (Vermont, New Hampshire, Maine):**
-- **Minimal violent crime** affecting children
-- **Strong community oversight** and informal safety networks
-- **Excellent emergency medical response** for child safety needs
-- **Safe outdoor recreation** environments with low accident rates
-
-**Good Child Safety (Adirondacks, Berkshires, Catskills):**
-- **Low violent crime** rates affecting families
-- **Good community awareness** of child safety
-- **Adequate emergency services** for family needs
-- **Safe recreation opportunities** with proper supervision
-
-#### **Emergency Services and Response**
-
-**Emergency Medical Services:**
-- **Vermont:** Excellent volunteer and professional EMS coverage
-- **New Hampshire:** Good regional EMS with helicopter access
-- **Maine:** Adequate coverage despite geographic challenges
-- **Adirondacks:** Good services with geographic limitations
-- **Berkshires:** Excellent coverage in populated areas
-- **Catskills:** Good coverage with some remote area limitations
-
-**Law Enforcement Response:**
-- **Vermont:** Community-integrated policing with excellent response
-- **New Hampshire:** Professional state and local law enforcement
-- **Maine:** Effective regional law enforcement coordination
-- **Adirondacks:** Good coverage with geographic challenges
-- **Berkshires:** Professional law enforcement with tourist experience
-- **Catskills:** Variable effectiveness depending on location
+| **Safety Category** | **Vermont** | **New Hampshire** | **Maine** | **Adirondacks** | **Berkshires** | **Catskills** |
+|---------------------|-------------|-------------------|-----------|-----------------|----------------|---------------|
+| **Overall Child Safety** | **Outstanding** | **Outstanding** | **Outstanding** | **Good** | **Good** | **Good** |
+| **Violent Crime Affecting Children** | Minimal | Minimal | Minimal | Low | Low | Low |
+| **Community Oversight** | Strong informal safety networks | Strong community culture | Strong community traditions | Good in small towns | Good in populated areas | Variable by location |
+| **Emergency Medical Response** | Excellent for child safety needs | Good regional EMS with helicopter access | Adequate coverage despite geography | Good services with geographic limitations | Excellent coverage in populated areas | Good coverage with some limitations |
+| **Safe Outdoor Recreation** | Low accident rates, well-maintained | Low accident rates, good safety culture | Low accident rates, strong traditions | Low accident rates, some remote risks | Low accident rates, good maintenance | Moderate accident rates, variable maintenance |
+| **School Safety Environment** | Excellent rural schools | Excellent rural schools | Good rural schools | Good rural schools | Good schools, some variation | Good schools, some variation |
+| **Community Child Safety Culture** | Strong community involvement | Strong safety traditions | Traditional mutual aid for families | Good community awareness | Good community involvement | Variable community involvement |
 
 ### Specialized Safety Considerations
 
 #### **Rural Property Security**
 
-**Property Crime Prevention:**
-- **Vermont:** Excellent community awareness and informal security
-- **New Hampshire:** Strong neighborhood watch and community cooperation
-- **Maine:** Good community networks and mutual aid traditions
-- **Adirondacks:** Moderate security with geographic isolation challenges
-- **Berkshires:** Good security with some seasonal considerations
-- **Catskills:** Moderate security with metropolitan proximity effects
-
-**Seasonal Security Patterns:**
-- **Winter:** Generally lower crime rates with some seasonal property theft
-- **Summer:** Increased property crime during peak tourism seasons
-- **Hunting Season:** Minimal security issues despite increased activity
-- **Holiday Periods:** Some increase in property crimes during vacation periods
+| **Security Category** | **Vermont** | **New Hampshire** | **Maine** | **Adirondacks** | **Berkshires** | **Catskills** |
+|----------------------|-------------|-------------------|-----------|-----------------|----------------|---------------|
+| **Property Crime Prevention** | Excellent community awareness and informal security | Strong neighborhood watch and community cooperation | Good community networks and mutual aid traditions | Moderate security with geographic isolation challenges | Good security with some seasonal considerations | Moderate security with metropolitan proximity effects |
+| **Community Watch Networks** | Strong informal surveillance | Excellent community cooperation | Traditional mutual aid systems | Good in small communities | Good in established areas | Variable by location |
+| **Seasonal Security Patterns** | Winter: Lower crime, some property theft<br/>Summer: Minimal tourism impact<br/>Hunting: Minimal security issues<br/>Holidays: Some property crimes | Winter: Very low crime rates<br/>Summer: Slight seasonal increase<br/>Hunting: Minimal security issues<br/>Holidays: Low property crimes | Winter: Lower crime rates<br/>Summer: Moderate seasonal patterns<br/>Hunting: Minimal security issues<br/>Holidays: Some seasonal theft | Winter: Lower crime rates<br/>Summer: Moderate tourism-related<br/>Hunting: Minimal security issues<br/>Holidays: Some property theft | Winter: Lower crime rates<br/>Summer: Seasonal increases<br/>Hunting: Minimal security issues<br/>Holidays: Moderate property crime | Winter: Lower crime rates<br/>Summer: Moderate seasonal patterns<br/>Hunting: Minimal security issues<br/>Holidays: Moderate property crime |
 
 #### **Emergency Preparedness and Self-Reliance**
 
-**Community Emergency Response:**
-- **Northern regions (VT, NH, ME):** Strong traditions of mutual aid and emergency preparedness
-- **Mountain regions (Adirondacks, Berkshires, Catskills):** Good community response capabilities with geographic limitations
-
-**Self-Reliance Factors:**
-- **All regions:** Strong traditions of self-sufficiency and emergency preparedness
-- **Rural areas:** Excellent community networks for emergency situations
-- **Remote locations:** Some increased reliance on self-sufficiency during emergencies
+| **Preparedness Category** | **Vermont** | **New Hampshire** | **Maine** | **Adirondacks** | **Berkshires** | **Catskills** |
+|---------------------------|-------------|-------------------|-----------|-----------------|----------------|---------------|
+| **Community Emergency Response** | Strong traditions of mutual aid and emergency preparedness | Strong traditions of mutual aid and emergency preparedness | Strong traditions of mutual aid and emergency preparedness | Good community response capabilities with geographic limitations | Good community response capabilities with geographic limitations | Good community response capabilities with geographic limitations |
+| **Self-Reliance Factors** | Strong traditions of self-sufficiency and emergency preparedness | Strong traditions of self-sufficiency and emergency preparedness | Strong traditions of self-sufficiency and emergency preparedness | Strong traditions of self-sufficiency and emergency preparedness | Strong traditions of self-sufficiency and emergency preparedness | Strong traditions of self-sufficiency and emergency preparedness |
+| **Rural Networks** | Excellent community networks for emergency situations | Excellent community networks for emergency situations | Excellent community networks for emergency situations | Good community networks for emergency situations | Good community networks for emergency situations | Good community networks for emergency situations |
+| **Remote Area Considerations** | Some increased reliance on self-sufficiency during emergencies | Some increased reliance on self-sufficiency during emergencies | Some increased reliance on self-sufficiency during emergencies | Significant reliance on self-sufficiency during emergencies | Moderate reliance on self-sufficiency during emergencies | Moderate reliance on self-sufficiency during emergencies |
 
 ### Safety Rankings and Recommendations
 
@@ -1195,251 +1045,46 @@ Off-grid infrastructure capability represents a critical component of the group'
 
 ### Regional Infrastructure Assessment
 
-#### **Vermont: Excellent Off-Grid Potential**
+#### **Comprehensive Off-Grid Infrastructure Comparison**
 
-**Overall Infrastructure Score: EXCELLENT (8/10)**
-
-Vermont demonstrates exceptional off-grid infrastructure potential with favorable regulations and abundant natural resources:
-
-**Solar Power Systems:**
-- **Solar Irradiance:** 4.2-4.5 kWh/m²/day average (good for northern latitude)
-- **Net Metering:** Excellent net metering policies with utility buyback programs
-- **Incentives:** 30% federal tax credit plus state rebates up to $6,000
-- **Installation:** Well-established solar installer network and expertise
-
-**Wind Power Potential:**
-- **Wind Resources:** Moderate to good wind resources at higher elevations
-- **Regulations:** Permissive small wind turbine regulations
-- **Practical Application:** Best suited for ridge-top locations with adequate spacing
-
-**Water Systems:**
-- **Well Water:** Excellent groundwater availability throughout most areas
-- **Typical Depth:** 100-300 feet for reliable water supply
-- **Quality:** Generally excellent water quality with minimal treatment needs
-- **Flow Rates:** Typically 5-20 gallons per minute for domestic wells
-
-**Septic Systems:**
-- **Regulations:** Reasonable septic regulations with soil testing requirements
-- **Soil Conditions:** Generally good soil percolation in most areas
-- **Installation Costs:** $15,000-$25,000 for typical systems
-- **Maintenance:** Well-established septic service industry
-
-**Heating Systems:**
-- **Wood Heating:** Abundant forest resources with sustainable harvesting
-- **Propane Delivery:** Excellent propane delivery infrastructure
-- **Efficiency Standards:** Modern EPA-certified wood stoves required
-- **Backup Systems:** Propane generators and heating systems widely available
-
-**Internet Connectivity:**
-- **Starlink:** Excellent coverage throughout Vermont
-- **Cellular:** Good 4G/5G coverage in most inhabited areas
-- **Fixed Wireless:** Some areas have fixed wireless options
-- **Fiber:** Limited but expanding in some rural areas
-
-#### **New Hampshire: Excellent Off-Grid Infrastructure**
-
-**Overall Infrastructure Score: EXCELLENT (8/10)**
-
-New Hampshire offers excellent off-grid potential with supportive regulations and good resource availability:
-
-**Solar Power Systems:**
-- **Solar Irradiance:** 4.1-4.4 kWh/m²/day average
-- **Net Metering:** Good net metering policies with utility interconnection
-- **Incentives:** Federal tax credit plus limited state rebates
-- **Installation:** Established solar industry with competitive pricing
-
-**Wind Power Potential:**
-- **Wind Resources:** Good wind resources in mountain areas
-- **Regulations:** Reasonable small wind system regulations
-- **Practical Application:** Mountain ridge locations offer best potential
-
-**Water Systems:**
-- **Well Water:** Excellent groundwater resources in most areas
-- **Typical Depth:** 150-400 feet depending on location
-- **Quality:** Generally good water quality, some areas require testing
-- **Flow Rates:** Typically 5-15 gallons per minute for domestic use
-
-**Septic Systems:**
-- **Regulations:** Reasonable state regulations with local permitting
-- **Soil Conditions:** Variable soil conditions, site assessment required
-- **Installation Costs:** $15,000-$30,000 depending on site conditions
-- **Maintenance:** Good septic service availability
-
-**Heating Systems:**
-- **Wood Heating:** Abundant forest resources with sustainable management
-- **Propane Delivery:** Good propane infrastructure and delivery
-- **Efficiency Standards:** EPA-certified equipment required
-- **Backup Systems:** Reliable propane and generator services
-
-**Internet Connectivity:**
-- **Starlink:** Excellent coverage throughout New Hampshire
-- **Cellular:** Good coverage in populated areas, some dead zones
-- **Fixed Wireless:** Limited availability in rural areas
-- **Fiber:** Expanding but limited in rural mountain areas
-
-#### **Maine: Good Off-Grid Infrastructure with Geographic Challenges**
-
-**Overall Infrastructure Score: GOOD (7/10)**
-
-Northern Maine offers good off-grid potential with some challenges related to remote locations:
-
-**Solar Power Systems:**
-- **Solar Irradiance:** 3.9-4.2 kWh/m²/day average
-- **Net Metering:** Good net metering policies with utility programs
-- **Incentives:** Federal tax credit plus state rebates
-- **Installation:** Limited installer network in northern regions
-
-**Wind Power Potential:**
-- **Wind Resources:** Excellent wind resources, especially in northern areas
-- **Regulations:** Supportive small wind system regulations
-- **Practical Application:** Strong potential for small wind systems
-
-**Water Systems:**
-- **Well Water:** Excellent groundwater availability
-- **Typical Depth:** 100-250 feet for reliable supply
-- **Quality:** Generally excellent water quality
-- **Flow Rates:** Typically 5-20 gallons per minute
-
-**Septic Systems:**
-- **Regulations:** Reasonable state regulations with local oversight
-- **Soil Conditions:** Generally good soil conditions for septic systems
-- **Installation Costs:** $12,000-$25,000 depending on location
-- **Maintenance:** Good service availability in inhabited areas
-
-**Heating Systems:**
-- **Wood Heating:** Abundant forest resources and strong wood heating culture
-- **Propane Delivery:** Good delivery infrastructure in inhabited areas
-- **Efficiency Standards:** Modern efficiency requirements
-- **Backup Systems:** Reliable propane and generator services
-
-**Internet Connectivity:**
-- **Starlink:** Excellent coverage throughout Maine
-- **Cellular:** Good coverage near populated areas, limited in remote regions
-- **Fixed Wireless:** Very limited in rural areas
-- **Fiber:** Limited availability in rural areas
-
-#### **Adirondacks: Moderate Off-Grid Infrastructure**
-
-**Overall Infrastructure Score: MODERATE (6/10)**
-
-The Adirondacks present moderate off-grid potential with regulatory and geographic challenges:
-
-**Solar Power Systems:**
-- **Solar Irradiance:** 3.8-4.1 kWh/m²/day average
-- **Net Metering:** Variable policies depending on utility territory
-- **Incentives:** Federal tax credit plus limited state incentives
-- **Installation:** Limited installer network within the park
-
-**Wind Power Potential:**
-- **Wind Resources:** Good wind resources at higher elevations
-- **Regulations:** Complex regulations within Adirondack Park boundaries
-- **Practical Application:** Permitting challenges for wind systems
-
-**Water Systems:**
-- **Well Water:** Generally good groundwater availability
-- **Typical Depth:** 150-400 feet depending on location
-- **Quality:** Good water quality with some areas requiring testing
-- **Flow Rates:** Variable, typically 3-15 gallons per minute
-
-**Septic Systems:**
-- **Regulations:** Strict regulations within Adirondack Park
-- **Soil Conditions:** Variable soil conditions, extensive testing required
-- **Installation Costs:** $20,000-$40,000 due to regulatory requirements
-- **Maintenance:** Limited service availability in remote areas
-
-**Heating Systems:**
-- **Wood Heating:** Abundant forest resources but harvesting restrictions
-- **Propane Delivery:** Good delivery in accessible areas
-- **Efficiency Standards:** High efficiency requirements
-- **Backup Systems:** Limited service availability in remote areas
-
-**Internet Connectivity:**
-- **Starlink:** Good coverage throughout the region
-- **Cellular:** Spotty coverage with significant dead zones
-- **Fixed Wireless:** Very limited availability
-- **Fiber:** Minimal availability in rural areas
-
-#### **Berkshires: Good Off-Grid Infrastructure with Higher Costs**
-
-**Overall Infrastructure Score: GOOD (7/10)**
-
-The Berkshires offer good off-grid infrastructure with considerations for higher costs:
-
-**Solar Power Systems:**
-- **Solar Irradiance:** 4.0-4.3 kWh/m²/day average
-- **Net Metering:** Good net metering policies with utility support
-- **Incentives:** Federal tax credit plus state rebates and programs
-- **Installation:** Well-established solar industry with competitive pricing
-
-**Wind Power Potential:**
-- **Wind Resources:** Moderate wind resources in elevated areas
-- **Regulations:** Reasonable small wind system regulations
-- **Practical Application:** Limited by terrain and neighbor considerations
-
-**Water Systems:**
-- **Well Water:** Good groundwater availability in most areas
-- **Typical Depth:** 200-500 feet depending on location
-- **Quality:** Generally good water quality
-- **Flow Rates:** Typically 5-12 gallons per minute
-
-**Septic Systems:**
-- **Regulations:** Reasonable state regulations with local permitting
-- **Soil Conditions:** Variable soil conditions requiring site assessment
-- **Installation Costs:** $18,000-$35,000 depending on site conditions
-- **Maintenance:** Good septic service availability
-
-**Heating Systems:**
-- **Wood Heating:** Good forest resources with sustainable management
-- **Propane Delivery:** Excellent propane infrastructure
-- **Efficiency Standards:** Modern efficiency requirements
-- **Backup Systems:** Reliable propane and generator services
-
-**Internet Connectivity:**
-- **Starlink:** Good coverage throughout the region
-- **Cellular:** Good coverage in most areas
-- **Fixed Wireless:** Some availability in rural areas
-- **Fiber:** Expanding availability in some areas
-
-#### **Catskills: Moderate Off-Grid Infrastructure**
-
-**Overall Infrastructure Score: MODERATE (6/10)**
-
-The Catskills present moderate off-grid potential with some infrastructure limitations:
-
-**Solar Power Systems:**
-- **Solar Irradiance:** 3.9-4.2 kWh/m²/day average
-- **Net Metering:** Good net metering policies with utility programs
-- **Incentives:** Federal tax credit plus state incentives
-- **Installation:** Moderate installer network availability
-
-**Wind Power Potential:**
-- **Wind Resources:** Moderate wind resources in elevated areas
-- **Regulations:** Reasonable small wind system regulations
-- **Practical Application:** Limited by terrain and development patterns
-
-**Water Systems:**
-- **Well Water:** Good groundwater availability in most areas
-- **Typical Depth:** 200-600 feet depending on location
-- **Quality:** Generally good water quality with some areas requiring treatment
-- **Flow Rates:** Variable, typically 3-12 gallons per minute
-
-**Septic Systems:**
-- **Regulations:** Reasonable state regulations with county oversight
-- **Soil Conditions:** Variable soil conditions, extensive testing required
-- **Installation Costs:** $20,000-$40,000 depending on site conditions
-- **Maintenance:** Good service availability in accessible areas
-
-**Heating Systems:**
-- **Wood Heating:** Good forest resources with sustainable management
-- **Propane Delivery:** Good delivery infrastructure
-- **Efficiency Standards:** Modern efficiency requirements
-- **Backup Systems:** Reliable propane and generator services
-
-**Internet Connectivity:**
-- **Starlink:** Good coverage throughout the region
-- **Cellular:** Good coverage near populated areas
-- **Fixed Wireless:** Limited availability in rural areas
-- **Fiber:** Expanding but limited in rural mountain areas
+| **Infrastructure Category** | **Vermont** | **New Hampshire** | **Maine** | **Adirondacks** | **Berkshires** | **Catskills** |
+|----------------------------|-------------|-------------------|-----------|-----------------|----------------|---------------|
+| **Overall Score** | **8/10 - Excellent** | **8/10 - Excellent** | **7/10 - Good** | **6/10 - Moderate** | **7/10 - Good** | **6/10 - Moderate** |
+| | | | | | | |
+| **SOLAR POWER SYSTEMS** | | | | | | |
+| Solar Irradiance | 4.2-4.5 kWh/m²/day | 4.1-4.4 kWh/m²/day | 3.9-4.2 kWh/m²/day | 3.8-4.1 kWh/m²/day | 4.0-4.3 kWh/m²/day | 3.9-4.2 kWh/m²/day |
+| Net Metering | Excellent buyback programs | Good interconnection policies | Good utility programs | Variable by utility | Good utility support | Good utility programs |
+| Incentives | Federal + up to $6,000 state | Federal + limited state | Federal + state rebates | Federal + limited state | Federal + state programs | Federal + state incentives |
+| Installation Network | Well-established, expert | Established, competitive | Limited in north | Limited within park | Well-established | Moderate availability |
+| | | | | | | |
+| **WIND POWER POTENTIAL** | | | | | | |
+| Wind Resources | Moderate-good at elevation | Good in mountains | Excellent, esp. north | Good at elevation | Moderate at elevation | Moderate at elevation |
+| Regulations | Permissive small turbines | Reasonable regulations | Supportive regulations | Complex park rules | Reasonable regulations | Reasonable regulations |
+| Practical Application | Ridge-top locations | Mountain ridges best | Strong small wind potential | Permitting challenges | Limited by terrain | Limited by development |
+| | | | | | | |
+| **WATER SYSTEMS** | | | | | | |
+| Groundwater Availability | Excellent throughout | Excellent most areas | Excellent availability | Generally good | Good most areas | Good most areas |
+| Typical Well Depth | 100-300 feet | 150-400 feet | 100-250 feet | 150-400 feet | 200-500 feet | 200-600 feet |
+| Water Quality | Excellent, minimal treatment | Good, some testing needed | Generally excellent | Good, some testing | Generally good | Good, some treatment |
+| Flow Rates | 5-20 GPM typical | 5-15 GPM typical | 5-20 GPM typical | 3-15 GPM variable | 5-12 GPM typical | 3-12 GPM variable |
+| | | | | | | |
+| **SEPTIC SYSTEMS** | | | | | | |
+| Regulations | Reasonable, soil testing | Reasonable, local permits | Reasonable, local oversight | Strict park regulations | Reasonable, local permits | Reasonable, county oversight |
+| Soil Conditions | Good percolation most areas | Variable, assessment needed | Good conditions generally | Variable, extensive testing | Variable, assessment needed | Variable, extensive testing |
+| Installation Costs | $15,000-$25,000 | $15,000-$30,000 | $12,000-$25,000 | $20,000-$40,000 | $18,000-$35,000 | $20,000-$40,000 |
+| Service Availability | Well-established industry | Good availability | Good in inhabited areas | Limited in remote areas | Good availability | Good in accessible areas |
+| | | | | | | |
+| **HEATING SYSTEMS** | | | | | | |
+| Wood Resources | Abundant, sustainable | Abundant, sustainable mgmt | Abundant, strong culture | Abundant, harvest limits | Good, sustainable mgmt | Good, sustainable mgmt |
+| Propane Delivery | Excellent infrastructure | Good infrastructure | Good in inhabited areas | Good in accessible areas | Excellent infrastructure | Good infrastructure |
+| Efficiency Standards | EPA-certified required | EPA-certified required | Modern requirements | High efficiency required | Modern requirements | Modern requirements |
+| Backup Systems | Widely available | Reliable services | Reliable services | Limited in remote areas | Reliable services | Reliable services |
+| | | | | | | |
+| **INTERNET CONNECTIVITY** | | | | | | |
+| Starlink Coverage | Excellent throughout | Excellent throughout | Excellent throughout | Good throughout | Good throughout | Good throughout |
+| Cellular Coverage | Good 4G/5G most areas | Good, some dead zones | Good near populated areas | Spotty, significant gaps | Good most areas | Good near populated areas |
+| Fixed Wireless | Some areas available | Limited rural availability | Very limited rural | Very limited | Some rural availability | Limited rural availability |
+| Fiber Availability | Limited, expanding | Limited rural mountain | Limited rural areas | Minimal rural | Expanding some areas | Limited rural mountain |
 
 ### Off-Grid System Integration and Costs
 
